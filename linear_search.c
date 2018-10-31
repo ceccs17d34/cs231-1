@@ -19,7 +19,7 @@ int main()
   {
     if (a[i] == search)    
     {
-      printf("%d is present at location %d.\n", search, i+1);
+      printf(" Found at location %d.\n", i+1);
       break;
     }
   }
