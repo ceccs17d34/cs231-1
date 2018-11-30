@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Stack using array
+*/
 #include <stdio.h>
 
 int stack[100], n=100, top;
