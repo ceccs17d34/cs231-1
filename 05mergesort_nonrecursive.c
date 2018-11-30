@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Merge sort-non recursive
+*/
 #include <stdio.h>
 
 int main()
