@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Insertion sort
+*/
 #include <stdio.h>
  
 int main()
