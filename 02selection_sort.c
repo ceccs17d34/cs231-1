@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Selection sort
+*/
 #include <stdio.h>
 
 int selectionSort(int a[], int size) {
