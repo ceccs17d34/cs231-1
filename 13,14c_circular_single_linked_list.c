@@ -1,6 +1,6 @@
 /*
 Shabeerdas c
-S3 D
+S3 D-46
 Circular single linked list
 */
 #include <stdio.h>
