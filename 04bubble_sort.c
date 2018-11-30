@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Bubble sort
+*/
 #include <stdio.h>
 
 int bubbleSort(int array[], int size) {
