@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Quick sort-recursive
+*/
 #include<stdio.h>
 void quicksort(int *arr, int low, int high)
 {
