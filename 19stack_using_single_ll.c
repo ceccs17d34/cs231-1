@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Stack using single LL
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
