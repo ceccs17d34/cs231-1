@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Binary search
+*/
 #include <stdio.h>
  
 int main()
