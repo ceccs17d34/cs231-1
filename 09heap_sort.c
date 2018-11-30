@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Heap sort
+*/
 #include<stdio.h>
 void main()
 {
