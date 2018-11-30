@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Quick sort-non recursive
+*/
 #include <stdio.h>
 
 void swap(int *a, int *b) {
