@@ -1,3 +1,8 @@
+/*
+Shabeerdas c
+S3 D-46
+Merge sort-non recursive
+*/
 #include <stdio.h>
 void mergeSort(int [], int, int, int);
 void partition(int [],int, int);
